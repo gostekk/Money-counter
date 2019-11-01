@@ -6,6 +6,9 @@ The simplest application that allows you to store the value of saved savings dur
 
 All your money is saved to local storage, so the next time you enter the application, it's still there.
 
+## Demo
+Click [HERE](http://money.gostekk.pl/) to check.
+
 ## Create-React-App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
